@@ -1,5 +1,14 @@
 <?php
-    echo "hola fuck you jean";
-    print_r ("Que trama");
-    echo "Que renta este hpta";
+    class prueba()
+    {
+        public function __construct()
+        {
+            echo "hola";
+        }
+        
+        public function hola()
+        {
+            echo "hola 2";
+        }
+    }
 ?>
