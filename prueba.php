@@ -1,5 +1,5 @@
 <?php
     echo "hola fuck you jean";
-    echo "RRRR";
+    print_r ("Que trama");
     echo "Que renta este hpta";
 ?>
